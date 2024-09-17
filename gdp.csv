@@ -1,0 +1,184 @@
+﻿country,region,gdp_per_capita,comp_edu,agri_employment,political_stability,corruption_control
+Afghanistan,South Asia,353,9,47,Very Low,Very Low
+Angola,Sub-Saharan Africa,2933,6,56,Very Low,Low
+Albania,Europe & Central Asia,6810,9,35,High,Low
+United Arab Emirates,Middle East & North Africa,53708,12,1,Height,Very High
+Argentina,Latin America & Caribbean,13651,14,7,Low,Low
+Armenia,Europe & Central Asia,7018,12,52,Very Low,High
+Antigua and Barbuda,Latin America & Caribbean,19920,11,,Very High,High
+Australia,East Asia & Pacific,65078,11,2,Very High,Very High
+Austria,Europe & Central Asia,52085,13,4,High,Very High
+Azerbaijan,Europe & Central Asia,7771,10,36,Very Low,Very Low
+Burundi,Sub-Saharan Africa,259,,85,Very Low,Very Low
+Belgium,Europe & Central Asia,49942,12,1,High,Very High
+Benin,Sub-Saharan Africa,1305,6,28,Low,High
+Burkina Faso,Sub-Saharan Africa,830,10,74,Very Low,High
+Bangladesh,South Asia,2688,5,37,Very Low,Very Low
+Bulgaria,Europe & Central Asia,13974,11,6,High,High
+Bahrain,Middle East & North Africa,30147,9,1,Low,High
+"Bahamas, The",Latin America & Caribbean,32041,12,3,Very High,Very High
+Bosnia and Herzegovina,Europe & Central Asia,7588,9,17,Low,Low
+Belarus,Europe & Central Asia,7995,11,11,Very Low,Low
+Belize,Latin America & Caribbean,6984,8,17,High,High
+Bolivia,Latin America & Caribbean,3600,34,27,Low,Very Low
+Brazil,Latin America & Caribbean,9065,14,9,Low,Low
+Barbados,Latin America & Caribbean,20738,11,3,Very High,Very High
+Brunei Darussalam,East Asia & Pacific,37152,9,1,Very High,Very High
+Bhutan,South Asia,3704,,44,Very High,Very High
+Botswana,Sub-Saharan Africa,7726,,18,Very High,Very High
+Central African Republic,Sub-Saharan Africa,427,10,71,Very Low,Very Low
+Switzerland,Europe & Central Asia,93260,11,2,Very High,Very High
+Chile,Latin America & Caribbean,15411,12,6,High,Very High
+China,East Asia & Pacific,12663,9,23,Very Least,High
+Cote d'Ivoire,Sub-Saharan Africa,2492,10,46,Low,Low
+Cameroon,Sub-Saharan Africa,1563,6,42,Very Low,Very Low
+"Congo, Dem. Rep.",Sub-Saharan Africa,665,6,56,Very Low,Very Low
+"Congo, Rep.",Sub-Saharan Africa,2649,10,32,Low,Very Low
+Colombia,Latin America & Caribbean,6657,12,15,Very Low,Low
+Comoros,Sub-Saharan Africa,1485,6,35,Low,Very Low
+Cabo Verde,Sub-Saharan Africa,3884,10,10,Very High,Very High
+Costa Rica,Latin America & Caribbean,13365,13,13,Very High,High
+Cayman Islands,Latin America & Caribbean,96074,12,,Very High,High
+Cyprus,Europe & Central Asia,32048,10,2,High,Hight
+Czechia,Europe & Central Asia,27227,10,3,Very High,Very High
+Germany,Europe & Central Asia,48718,13,1,High,Very High
+Djibouti,Middle East & North Africa,3278,10,1,Low,Very Low
+Dominica,Latin America & Caribbean,8347,12,,Very High,High
+Denmark,Europe & Central Asia,67790,10,2,Very High,Very High
+Dominican Republic,Latin America & Caribbean,10111,15,8,High,Low
+Algeria,Middle East & North Africa,5023,10,10,Very Low,Low
+Ecuador,Latin America & Caribbean,6477,15,32,Low,Low
+"Egypt, Arab Rep.",Middle East & North Africa,4295,12,19,Very Low,Low
+Spain,Europe & Central Asia,29675,10,4,High,Very High
+Estonia,Europe & Central Asia,28114,9,3,Very High,Very High
+Ethiopia,Sub-Saharan Africa,1027,8,63,Very Low,Low
+Finland,Europe & Central Asia,50735,12,4,Very High,Very High
+Fiji,East Asia & Pacific,5356,,29,Very High,High
+France,Europe & Central Asia,40886,13,3,High,Very High
+"Micronesia, Fed. Sts.",East Asia & Pacific,3767,8,150,Very High,High
+Gabon,Sub-Saharan Africa,8820,10,29,High,Very Low
+United Kingdom,Europe & Central Asia,45564,11,1,High,Very High
+Georgia,Europe & Central Asia,6730,9,40,Low,High
+Ghana,Sub-Saharan Africa,2218,11,40,Low,High
+Guinea,Sub-Saharan Africa,1515,6,60,Very Low,Very Lower
+"Gambia, The",Sub-Saharan Africa,804,9,48,High,Low
+Guinea-Bissau,Sub-Saharan Africa,814,9,50,Low,Very Low
+Equatorial Guinea,Sub-Saharan Africa,8052,6,56,Low,Very Low
+Greece,Europe & Central Asia,20867,10,11,High,High
+Grenada,Latin America & Caribbean,9762,12,,Very High,High
+Guatemala,Latin America & Caribbean,5473,16,27,Low,Very Low
+Guam,East Asia & Pacific,40227,0,0,Very High,Very High
+Guyana,Latin America & Caribbean,18199,6,12,High,Low
+"Hong Kong SAR, China",East Asia & Pacific,48828,9,0,High,Very High
+Honduras,Latin America & Caribbean,3012,12,24,Low,Very Low
+Croatia,Europe & Central Asia,18673,8,6,High,High
+Haiti,Latin America & Caribbean,1748,6,46,Very Low,Very Low
+Hungary,Europe & Central Asia,18356,13,4,High,High
+Indonesia,East Asia & Pacific,4788,9,29,Low,Low
+India,South Asia,2366,8,43,Low,Low
+Ireland,Europe & Central Asia,103983,10,4,Very High,Very High
+"Iran, Islamic Rep.",Middle East & North Africa,4668,9,15,Very Low,Very Low
+Iraq,Middle East & North Africa,6442,6,8,Very Low,Very Low
+Iceland,Europe & Central Asia,75135,10,4,Very High,Very High
+Israel,Middle East & North Africa,54931,15,1,Very Low,Very High
+Italy,Europe & Central Asia,35069,12,4,High,High
+Jamaica,Latin America & Caribbean,6047,6,15,High,High
+Jordan,Middle East & North Africa,4311,10,3,Low,High
+Japan,East Asia & Pacific,34017,9,3,Very High,Very High
+Kazakhstan,Europe & Central Asia,11484,9,13,Low,High
+Kenya,Sub-Saharan Africa,2099,12,33,Very Low,Very Low
+Kyrgyz Republic,Europe & Central Asia,1740,10,25,Low,Very Low
+Cambodia,East Asia & Pacific,1760,,37,Low,Very Low
+Kiribati,East Asia & Pacific,2061,9,,Very High,High
+"Korea, Rep.",East Asia & Pacific,32395,9,5,High,Very High
+Kuwait,Middle East & North Africa,42824,9,2,High,High
+Lao PDR,East Asia & Pacific,2054,9,70,Very High,Very Low
+Lebanon,Middle East & North Africa,3824,10,4,Very Low,Very Low
+Liberia,Sub-Saharan Africa,755,6,39,Low,Very Low
+Libya,Middle East & North Africa,8211,9,9,Very Low,Very Low
+St. Lucia,Latin America & Caribbean,13031,10,11,Very High,High
+Sri Lanka,South Asia,3343,11,26,Very Low,Low
+Lesotho,Sub-Saharan Africa,993,7,29,Low,Low
+Lithuania,Europe & Central Asia,25079,11,5,High,Very High
+Luxembourg,Europe & Central Asia,125006,12,1,Very High,Very High
+Latvia,Europe & Central Asia,21508,11,7,High,Very High
+"Macao SAR, China",East Asia & Pacific,35193,10,1,Very High,Very High
+Morocco,Middle East & North Africa,3442,9,31,Low,Low
+Moldova,Europe & Central Asia,5715,10,55,Very Low,Low
+Madagascar,Sub-Saharan Africa,517,5,70,Low,Very Low
+Maldives,South Asia,11781,7,7,High,Low
+Mexico,Latin America & Caribbean,11477,14,13,Very Low,Very Low
+North Macedonia,Europe & Central Asia,7486,13,10,High,Low
+Mali,Sub-Saharan Africa,831,9,68,Very Low,Very Low
+Malta,Middle East & North Africa,34563,11,1,Very High,High
+Myanmar,East Asia & Pacific,1149,5,46,Very Low,Very Low
+Montenegro,Europe & Central Asia,10093,9,7,Low,High
+Mongolia,East Asia & Pacific,5046,12,26,High,Low
+Mozambique,Sub-Saharan Africa,558,,70,Very Low,Very Low
+Mauritania,Sub-Saharan Africa,2057,9,33,Low,Very Low
+Mauritius,Sub-Saharan Africa,10240,11,5,Very High,High
+Malawi,Sub-Saharan Africa,643,8,62,Low,Low
+Malaysia,East Asia & Pacific,11993,6,10,High,High
+Namibia,Sub-Saharan Africa,4896,7,22,High,High
+Niger,Sub-Saharan Africa,589,,71,Very Low,Low
+Nigeria,Sub-Saharan Africa,2163,9,38,Very Low,Very Low
+Nicaragua,Latin America & Caribbean,2252,7,28,Low,Very Low
+Netherlands,Europe & Central Asia,57025,13,2,High,Very High
+Norway,Europe & Central Asia,108798,10,2,Very High,Very High
+Nepal,South Asia,1348,9,61,Low,Low
+New Zealand,East Asia & Pacific,48217,10,6,Very High,Very High
+Oman,Middle East & North Africa,25057,10,6,High,High
+Pakistan,South Asia,1589,12,36,Very Low,Very Low
+Panama,Latin America & Caribbean,17358,11,15,High,Low
+Peru,Latin America & Caribbean,7239,14,26,Low,Very Low
+Philippines,East Asia & Pacific,3499,13,24,Very Low,Low
+Palau,East Asia & Pacific,13422,12,,Very High,High
+Papua New Guinea,East Asia & Pacific,3116,,18,Very Low,Low
+Poland,Europe & Central Asia,18732,8,8,High,High
+Puerto Rico,Latin America & Caribbean,35268,13,1,High,High
+Portugal,Europe & Central Asia,24515,12,5,Very High,Very High
+Paraguay,Latin America & Caribbean,6187,13,17,High,Very Low
+West Bank and Gaza,Middle East & North Africa,3800,10,6,Very Low,Low
+Qatar,Middle East & North Africa,87480,12,1,Very High,Very High
+Romania,Europe & Central Asia,15692,10,18,High,High
+Russian Federation,Europe & Central Asia,15445,11,6,Very Low,Very Low
+Rwanda,Sub-Saharan Africa,967,6,56,High,High
+Saudi Arabia,Middle East & North Africa,30448,9,3,Low,High
+Sudan,Sub-Saharan Africa,1102,8,40,Very Low,Very Low
+Senegal,Sub-Saharan Africa,1595,11,22,Low,High
+Singapore,East Asia & Pacific,88429,6,0,Very High,Very High
+Solomon Islands,East Asia & Pacific,2163,,37,High,High
+Sierra Leone,Sub-Saharan Africa,476,9,43,Low,Low
+El Salvador,Latin America & Caribbean,5048,15,15,Low,Low
+Somalia,Sub-Saharan Africa,592,8,26,Very Low,Very Low
+Serbia,Europe & Central Asia,9538,8,14,Low,Low
+Sao Tome and Principe,Sub-Saharan Africa,2387,6,17,High,High
+Suriname,Latin America & Caribbean,5859,6,8,High,Low
+Slovak Republic,Europe & Central Asia,21279,11,3,High,High
+Slovenia,Europe & Central Asia,28439,9,4,High,Very High
+Sweden,Europe & Central Asia,56300,10,2,Very High,Very High
+Eswatini,Sub-Saharan Africa,3987,7,13,Low,Low
+Seychelles,Sub-Saharan Africa,17167,10,,Very High,Very High
+Chad,Sub-Saharan Africa,699,10,69,Very Low,Very Low
+Togo,Sub-Saharan Africa,923,10,31,Very Low,Low
+Thailand,East Asia & Pacific,6913,9,30,Low,Low
+Tajikistan,Europe & Central Asia,1076,9,44,Very Low,Very Low
+Turkmenistan,Europe & Central Asia,8793,12,23,Low,Very Low
+Timor-Leste,East Asia & Pacific,2389,9,39,High,High
+Tonga,East Asia & Pacific,4682,15,27,Very High,Low
+Trinidad and Tobago,Latin America & Caribbean,19629,7,3,High,Low
+Tunisia,Middle East & North Africa,3608,9,14,Very Low,High
+Turkiye,Europe & Central Asia,10675,12,17,Very Low,Low
+Tuvalu,East Asia & Pacific,5222,8,,Very High,Very High
+Tanzania,Sub-Saharan Africa,1193,7,66,Low,Low
+Uganda,Sub-Saharan Africa,964,7,66,Very Low,Very Low
+Uruguay,Latin America & Caribbean,20499,14,8,Very High,Very High
+Uzbekistan,Europe & Central Asia,2276,12,26,Low,Low
+St. Vincent and the Grenadines,Latin America & Caribbean,9298,12,10,Very High,Very High
+Viet Nam,East Asia & Pacific,4179,10,34,Low,Low
+Vanuatu,East Asia & Pacific,3129,,42,Very High,High
+Samoa,East Asia & Pacific,3746,8,20,Very High,High
+"Yemen, Rep.",Middle East & North Africa,699,9,29,Very Low,Very Low
+South Africa,Sub-Saharan Africa,6766,9,19,Very Low,Low
+Zambia,Sub-Saharan Africa,1457,7,57,High,Low
+Zimbabwe,Sub-Saharan Africa,1677,7,53,Very Low,Very Low
